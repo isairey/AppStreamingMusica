@@ -133,59 +133,93 @@ OLA-Play-Music-App/
 ├── network/
 ├── ui/
 └── README.md
-🚀 Instalación
-1️⃣ Clonar repositorio
+
+```
+
+---
+
+# 🚀 Instalación
+
+## 1️⃣ Clonar repositorio
+```
 git clone https://github.com/isairey/OLA-Play-Music-App.git
 cd OLA-Play-Music-App
-2️⃣ Abrir en Android Studio
+```
+## 2️⃣ Abrir en Android Studio
+```
 Open Project → Select Project Folder
-3️⃣ Configurar Firebase
-Crear proyecto en Firebase
-Activar Google Authentication
-Descargar google-services.json
-Colocarlo en:
-app/google-services.json
-4️⃣ Ejecutar proyecto
+```
+## 3️⃣ Configurar Firebase
+
+- Crear proyecto en Firebase
+- Activar Google Authentication
+- Descargar google-services.json
+- Colocarlo en:
+- app/google-services.json
+
+## 4️⃣ Ejecutar proyecto
 
 Conectar dispositivo o emulador y presionar:
-
+```
 Run ▶️
-📊 Funcionalidades Técnicas
-🔥 Servicios Android
-Bound Services
-Intent Services
-🌐 Networking
-Retrofit
-Volley
-🗄️ Base de Datos
-SQLite
-Persistencia local
-🎨 UI/UX
-RecyclerView personalizado
-Transition API
-Material Design
-📈 Roadmap
- Playlists
- Equalizador
- Letras sincronizadas
- Dark Mode
- Recomendaciones inteligentes
- Streaming en alta calidad
- Android Auto
-🤝 Contribuciones
+```
+
+---
+
+# 📊 Funcionalidades Técnicas
+
+## 🔥 Servicios Android
+
+- Bound Services
+- Intent Services
+
+## 🌐 Networking
+
+- Retrofit
+- Volley
+
+## 🗄️ Base de Datos
+
+- SQLite
+- Persistencia local
+
+## 🎨 UI/UX
+
+- RecyclerView personalizado
+- Transition API
+- Material Design
+
+## 📈 Roadmap
+
+- Playlists
+- Equalizador
+- Letras sincronizadas
+- Dark Mode
+- Recomendaciones inteligentes
+- Streaming en alta calidad
+- Android Auto
+
+ ---
+ 
+# 🤝 Contribuciones
 
 Las contribuciones son bienvenidas 🚀
 
-Haz un Fork
-Crea una rama
-Realiza cambios
-Envía un Pull Request
-📄 Licencia
+- Haz un Fork
+- Crea una rama
+- Realiza cambios
+- Envía un Pull Request
+
+---
+
+# 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
 
-👨‍💻 Autor
-Isai Reyes
+---
+
+# 👨‍💻 Autor
+**Isai Reyes**
 
 Desarrollador Full Stack enfocado en aplicaciones multimedia, Android y plataformas de streaming.
 
