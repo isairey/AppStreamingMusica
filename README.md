@@ -142,8 +142,8 @@ OLA-Play-Music-App/
 
 ## 1️⃣ Clonar repositorio
 ```
-git clone https://github.com/isairey/OLA-Play-Music-App.git
-cd OLA-Play-Music-App
+git clone https://github.com/isairey/AppStreamingMusica.git
+cd AppStreamingMusica
 ```
 ## 2️⃣ Abrir en Android Studio
 ```
